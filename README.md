@@ -6,7 +6,7 @@
 
 Construido no evento da Alura.
 
-🔗[Clique aqui para acessar]()
+🔗[Clique aqui para acessar](https://eduevangelista.github.io/ImersaoAluraProjetos/)
 
 
 
